@@ -1,0 +1,47 @@
+.blood-donor-form {
+    max-width: 600px;
+    /* margin: 0 auto; */
+    /* padding: 20px; */
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+  }
+  
+  /* .blood-donor-form h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  } */
+  
+  /* .blood-donor-form form {
+    display: flex;
+    flex-direction: column;
+  } */
+  
+  /* .blood-donor-form label {
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+  
+  .blood-donor-form input,
+  .blood-donor-form select {
+    padding: 8px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+  }
+  
+  .blood-donor-form button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    background-color: #28a745;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 20px;
+  }
+  
+  .blood-donor-form button:hover {
+    background-color: #218838;
+  } */
