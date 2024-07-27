@@ -7,9 +7,6 @@ const Register = () => {
     email: "",
     phone: "",
     address: "",
-    type: "",
-    bloodType: "",
-    organs: "",
     password: "",
   });
   const navigate = useNavigate();
@@ -21,7 +18,7 @@ const Register = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
-      await axios.post("/api/auth/register", formData);
+      await axios.post("/api/users/register", formData);
       alert("Registered successfully!");
       navigate("/login");
     } catch (error) {
