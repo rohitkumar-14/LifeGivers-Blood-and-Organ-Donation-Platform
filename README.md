@@ -13,19 +13,19 @@ Demo: https://drive.google.com/file/d/13hRHeJT-7ZCjmQkt5Dcqxr5aq6NNBUac/view?usp
 ![Screenshot (402)](https://github.com/user-attachments/assets/f033e957-7428-48ae-be00-fad17d08a62d)
 
 # Features 
-1.Developed an intuitive drag-and-drop interface using React DnD, enabling users to easily add, position, and remove predefined components on a dynamic canvas.
-2.Implemented component customization features including background color, text color, and text editing to enhance user design flexibility.
-3.Utilized React's state management to maintain the state of the canvas and components, ensuring smooth interaction and real-time updates.
+1.Developed an intuitive drag-and-drop interface using React DnD, enabling users to easily add, position, and remove predefined components on a dynamic canvas.<br />
+2.Implemented component customization features including background color, text color, and text editing to enhance user design flexibility.<br />
+3.Utilized React's state management to maintain the state of the canvas and components, ensuring smooth interaction and real-time updates.<br />
 4.Integrated export functionality using HTML-to-image and HTML-to-HTML conversion techniques, allowing users to save their designs as HTML and PNG files, facilitating easy sharing and implementation.
 
 # Installation To get started with the project, clone the repository and install the necessary dependencies.
 
-1.git clone https://github.com/rohitkumar-14/LifeGivers-Blood-and-Organ-Donation-Platform.git 
-2.cd LifeGivers-Blood-and-Organ-Donation-Platform 
-3.npm install 
-4.cd server 
-5. npm install 
-6.npm run dev in both server and LifeGivers-Blood-and-Organ-Donation-Platform folder
+1.git clone https://github.com/rohitkumar-14/LifeGivers-Blood-and-Organ-Donation-Platform.git <br />
+2.cd LifeGivers-Blood-and-Organ-Donation-Platform <br />
+3.npm install <br />
+4.cd server <br />
+5. npm install <br />
+6.npm run dev in both server and LifeGivers-Blood-and-Organ-Donation-Platform folder<br />
 
 # Usage 
 To run the application locally, use the following command: npm run dev Open http://localhost:5173 to view it in the browser. The page will reload if you make edits. You will also see any lint errors in the console.
