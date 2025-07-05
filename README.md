@@ -20,7 +20,12 @@ Demo: https://drive.google.com/file/d/13hRHeJT-7ZCjmQkt5Dcqxr5aq6NNBUac/view?usp
 
 # Installation To get started with the project, clone the repository and install the necessary dependencies.
 
-1.git clone https://github.com/rohitkumar-14/LifeGivers-Blood-and-Organ-Donation-Platform.git 2.cd LifeGivers-Blood-and-Organ-Donation-Platform 3.npm install 4.cd server 5. npm install 6.npm run dev in both server and LifeGivers-Blood-and-Organ-Donation-Platform folder
+1.git clone https://github.com/rohitkumar-14/LifeGivers-Blood-and-Organ-Donation-Platform.git 
+2.cd LifeGivers-Blood-and-Organ-Donation-Platform 
+3.npm install 
+4.cd server 
+5. npm install 
+6.npm run dev in both server and LifeGivers-Blood-and-Organ-Donation-Platform folder
 
 # Usage 
 To run the application locally, use the following command: npm run dev Open http://localhost:5173 to view it in the browser. The page will reload if you make edits. You will also see any lint errors in the console.
