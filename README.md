@@ -1,8 +1,8 @@
 # LifeGivers-Blood-and-Organ-Donation-Platform
 Developed a comprehensive blood and organ donation platform using MongoDB, Express.js, React.js, and Node.js, enabling seamless data management and user interactions.
 
-Demo: https://drive.google.com/file/d/13hRHeJT-7ZCjmQkt5Dcqxr5aq6NNBUac/view?usp=drive_link
-[![https://github.com/user-attachments/assets/488f3dd9-4c69-41ff-98ac-ac5721476964](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://drive.google.com/file/d/13hRHeJT-7ZCjmQkt5Dcqxr5aq6NNBUac/view?usp=drive_link)
+[![Watch the demo](![352709056-488f3dd9-4c69-41ff-98ac-ac5721476964](https://github.com/user-attachments/assets/7e136695-e23c-4cbe-aa33-3f9ececa1ca1)
+)](https://drive.google.com/file/d/13hRHeJT-7ZCjmQkt5Dcqxr5aq6NNBUac/view?usp=drive_link)
 
 # Screenshots
 ![Screenshot (395)](https://github.com/user-attachments/assets/488f3dd9-4c69-41ff-98ac-ac5721476964)
